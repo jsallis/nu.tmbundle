@@ -60,6 +60,34 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
+					<string>punctuation.definition.variable.nu</string>
+				</dict>
+			</dict>
+			<key>match</key>
+			<string>(@)[a-zA-Z_]\w*</string>
+			<key>name</key>
+			<string>variable.other.readwrite.instance.nu</string>
+		</dict>
+		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.definition.variable.nu</string>
+				</dict>
+			</dict>
+			<key>match</key>
+			<string>(\$)[a-zA-Z_]\w*</string>
+			<key>name</key>
+			<string>variable.other.readwrite.global.nu</string>
+		</dict>
+		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
 					<string>punctuation.definition.comment.nu</string>
 				</dict>
 			</dict>
