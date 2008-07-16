@@ -83,6 +83,12 @@
 			<string>variable.other.readwrite.global.nu</string>
 		</dict>
 		<dict>
+			<key>match</key>
+			<string>\b[A-Z]\w*\b</string>
+			<key>name</key>
+			<string>support.class.nu</string>
+		</dict>
+		<dict>
 			<key>captures</key>
 			<dict>
 				<key>1</key>
@@ -334,7 +340,7 @@
 				<key>2</key>
 				<dict>
 					<key>name</key>
-					<string>entity.name.class.nu</string>
+					<string>entity.name.type.class.nu</string>
 				</dict>
 			</dict>
 			<key>match</key>
