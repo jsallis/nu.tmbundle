@@ -310,7 +310,7 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>storage.type.protocol.nu</string>
+					<string>keyword.control.protocol.nu</string>
 				</dict>
 				<key>2</key>
 				<dict>
@@ -520,7 +520,7 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>storage.type.class.nu</string>
+					<string>keyword.control.class.nu</string>
 				</dict>
 				<key>2</key>
 				<dict>
@@ -530,7 +530,7 @@
 				<key>5</key>
 				<dict>
 					<key>name</key>
-					<string>storage.type.class.nu</string>
+					<string>keyword.control.class.nu</string>
 				</dict>
 				<key>6</key>
 				<dict>
@@ -549,7 +549,7 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>storage.type.function-type.nu</string>
+					<string>keyword.control.function-type.nu</string>
 				</dict>
 				<key>2</key>
 				<dict>
