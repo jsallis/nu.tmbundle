@@ -373,7 +373,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>\b((?&lt;!-)[ic]method)\s+\((\w+)\)\s+(\w+)\s+(is)</string>
+			<string>\(([+-]|[ic]method)\s+\((\w+)\)\s+(\w+)\s+(is)</string>
 			<key>name</key>
 			<string>meta.method.nu.zero-args</string>
 		</dict>
@@ -412,7 +412,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>\b((?&lt;!-)[ic]method)\s+\((\w+)\)\s+(\w+\:)\s*\((\w+)\)\s+(\w+)\s+(is)</string>
+			<string>\(([+-]|[ic]method)\s+\((\w+)\)\s+(\w+\:)\s*\((\w+)\)\s+(\w+)\s+(is)</string>
 			<key>name</key>
 			<string>meta.method.nu.one-arg</string>
 		</dict>
@@ -466,7 +466,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>\b((?&lt;!-)[ic]method)\s+\((\w+)\)\s+(\w+\:)\s*\((\w+)\)\s+(\w+)\s+(\w+\:)\s*\((\w+)\)\s+(\w+)\s+(is)</string>
+			<string>\(([+-]|[ic]method)\s+\((\w+)\)\s+(\w+\:)\s*\((\w+)\)\s+(\w+)\s+(\w+\:)\s*\((\w+)\)\s+(\w+)\s+(is)</string>
 			<key>name</key>
 			<string>meta.method.nu.two-args</string>
 		</dict>
@@ -535,7 +535,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>\b((?&lt;!-)[ic]method)\s+\((\w+)\)\s+(\w+\:)\s*\((\w+)\)\s+(\w+)\s+(\w+\:)\s*\((\w+)\)\s+(\w+)\s+(\w+\:)\s*\((\w+)\)\s+(\w+)\s+(is)</string>
+			<string>\(([+-]|[ic]method)\s+\((\w+)\)\s+(\w+\:)\s*\((\w+)\)\s+(\w+)\s+(\w+\:)\s*\((\w+)\)\s+(\w+)\s+(\w+\:)\s*\((\w+)\)\s+(\w+)\s+(is)</string>
 			<key>name</key>
 			<string>meta.method.nu.three-args</string>
 		</dict>
