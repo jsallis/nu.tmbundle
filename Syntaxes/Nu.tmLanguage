@@ -329,7 +329,7 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>storage.type.class.nu</string>
+					<string>keyword.control.method.nu</string>
 				</dict>
 				<key>2</key>
 				<dict>
@@ -345,6 +345,11 @@
 				<dict>
 					<key>name</key>
 					<string>entity.name.function.nu</string>
+				</dict>
+				<key>8</key>
+				<dict>
+					<key>name</key>
+					<string>keyword.control.is.nu</string>
 				</dict>
 			</dict>
 			<key>match</key>
