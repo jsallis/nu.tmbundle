@@ -329,6 +329,25 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
+					<string>keyword.control.import.nu</string>
+				</dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>entity.name.class.nu</string>
+				</dict>
+			</dict>
+			<key>match</key>
+			<string>\((import)\s+(\w*)</string>
+			<key>name</key>
+			<string>meta.import.nu</string>
+		</dict>
+		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
 					<string>keyword.control.method.nu</string>
 				</dict>
 				<key>2</key>
