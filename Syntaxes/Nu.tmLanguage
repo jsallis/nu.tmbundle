@@ -354,6 +354,25 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
+					<string>keyword.control.global.nu</string>
+				</dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>variable.other.readwrite.global.nu</string>
+				</dict>
+			</dict>
+			<key>match</key>
+			<string>\((global)\s+([\w\-]*)</string>
+			<key>name</key>
+			<string>meta.global.nu</string>
+		</dict>
+		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
 					<string>keyword.control.method.nu</string>
 				</dict>
 				<key>2</key>
@@ -589,7 +608,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(let|set|global|cond|case|do|loop|until|while|for|break|continue|if|else|elseif|then|unless|try|throw|catch|array|dict|list|return)\b</string>
+			<string>\b(let|set|cond|case|do|loop|until|while|for|break|continue|if|else|elseif|then|unless|try|throw|catch|array|dict|list|return)\b</string>
 			<key>name</key>
 			<string>keyword.control.nu</string>
 		</dict>
