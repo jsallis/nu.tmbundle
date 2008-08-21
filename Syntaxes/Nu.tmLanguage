@@ -636,6 +636,12 @@
 			<key>name</key>
 			<string>support.function.testing.nu</string>
 		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(task|application-tasks|bundle-tasks|compilation-tasks|dylib-tasks|framework-tasks|library-tasks)\b</string>
+			<key>name</key>
+			<string>keyword.nukefile.nu</string>
+		</dict>
 	</array>
 	<key>repository</key>
 	<dict>
