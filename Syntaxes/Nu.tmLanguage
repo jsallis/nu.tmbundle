@@ -602,7 +602,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>\b(function|macro)\s+((\w|\-|\!|\?)*)</string>
+			<string>\b(function|macro|macro-0)\s+((\w|\-|\!|\?)*)</string>
 			<key>name</key>
 			<string>meta.function.nu</string>
 		</dict>
@@ -744,7 +744,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(assert_equal|assert_not_equal|assert_throws|assert_in_delta|assert_true|assert_false)\b</string>
+			<string>\b(assert_equal|assert_not_equal|assert_throws|assert_in_delta|assert_true|assert_false|assert_less_than|assert_greater_than)\b</string>
 			<key>name</key>
 			<string>support.function.testing.nu</string>
 		</dict>
