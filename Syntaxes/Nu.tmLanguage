@@ -94,6 +94,25 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
+					<string>punctuation.definition.comment.nudoc.nu</string>
+				</dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>support.comment.nudoc.nu</string>
+				</dict>
+			</dict>
+			<key>match</key>
+			<string>(;.*|#.*)(@(abstract|copyright|discussion|file|header|info).*)</string>
+			<key>name</key>
+			<string>comment.nudoc.nu</string>
+		</dict>
+		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
 					<string>punctuation.definition.comment.nu</string>
 				</dict>
 			</dict>
