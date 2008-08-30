@@ -35,6 +35,8 @@
 			<string>EB17A514-ACA9-4C31-B93A-DCAAE2AF430F</string>
 			<string>------------------------------------</string>
 			<string>E89BA0AB-6895-4AC1-B594-3ABB5B1C0323</string>
+			<string>------------------------------------</string>
+			<string>190CAD24-7B5D-4370-83AD-73DA3357844E</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -90,6 +92,20 @@
 				</array>
 				<key>name</key>
 				<string>Declarations</string>
+			</dict>
+			<key>190CAD24-7B5D-4370-83AD-73DA3357844E</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>AF8E2778-2A3E-499E-A955-A6BEF59344C9</string>
+					<string>EEC82323-3026-4CD8-BCC1-2170F2FC8853</string>
+					<string>072EB445-B215-4C6B-AA7B-F61C0D3A7029</string>
+					<string>E6E8E119-DCF8-4524-A0D4-8170D16690C9</string>
+					<string>0FA61A03-D049-4C06-807B-9BB1124B8590</string>
+					<string>84109B72-B518-4617-B378-C692199DF4B7</string>
+				</array>
+				<key>name</key>
+				<string>nudoc</string>
 			</dict>
 			<key>3077AEF1-A25C-4482-A4C1-87EED76D5D03</key>
 			<dict>
@@ -242,6 +258,12 @@
 		<string>E21EE0F9-9336-442C-BB60-E349221AF72E</string>
 		<string>E5624B72-ABBF-4C20-B6A3-506581C25288</string>
 		<string>E749CF1B-024F-4ADD-98A5-27F47DCF1B12</string>
+		<string>AF8E2778-2A3E-499E-A955-A6BEF59344C9</string>
+		<string>EEC82323-3026-4CD8-BCC1-2170F2FC8853</string>
+		<string>072EB445-B215-4C6B-AA7B-F61C0D3A7029</string>
+		<string>E6E8E119-DCF8-4524-A0D4-8170D16690C9</string>
+		<string>0FA61A03-D049-4C06-807B-9BB1124B8590</string>
+		<string>84109B72-B518-4617-B378-C692199DF4B7</string>
 	</array>
 	<key>uuid</key>
 	<string>30C0A5D8-6561-4504-9BAD-C1D837F0BE60</string>
