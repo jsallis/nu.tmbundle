@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>source.nu</string>
 	<key>tabTrigger</key>
-	<string>ctk</string>
+	<string>ctks</string>
 	<key>uuid</key>
 	<string>894CF85A-1032-43A9-923C-28D9ABBCAB7C</string>
 </dict>
