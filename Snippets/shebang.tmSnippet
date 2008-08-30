@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>#!/usr/bin/env nush</string>
 	<key>name</key>
-	<string>shebang</string>
+	<string>#!/usr/bin/env nush</string>
 	<key>scope</key>
 	<string>source.nu</string>
 	<key>tabTrigger</key>
