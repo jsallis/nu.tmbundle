@@ -8,7 +8,7 @@
 	(catch ($2)
 		$0)</string>
 	<key>name</key>
-	<string>try</string>
+	<string>try/catch</string>
 	<key>scope</key>
 	<string>source.nu</string>
 	<key>tabTrigger</key>

@@ -6,7 +6,7 @@
 	<string>(ivar (${1:id}) ${2:name} 
 	$0)</string>
 	<key>name</key>
-	<string>ivar</string>
+	<string>ivar section</string>
 	<key>scope</key>
 	<string>source.nu</string>
 	<key>tabTrigger</key>

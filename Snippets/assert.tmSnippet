@@ -3,15 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(class ${1:name} is NuTestCase
-	$0)</string>
+	<string>(assert ${0:expression})</string>
 	<key>name</key>
-	<string>NuTestCase subclass</string>
+	<string>assert</string>
 	<key>scope</key>
 	<string>source.nu</string>
 	<key>tabTrigger</key>
-	<string>tc</string>
+	<string>asrt</string>
 	<key>uuid</key>
-	<string>9FB2EA54-3AF8-467F-93B2-6AE0BA7BF881</string>
+	<string>4D4E596E-93AD-4076-B494-32B1CD550871</string>
 </dict>
 </plist>

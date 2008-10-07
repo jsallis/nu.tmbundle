@@ -10,7 +10,7 @@
 	<key>scope</key>
 	<string>source.nu</string>
 	<key>tabTrigger</key>
-	<string>unless</string>
+	<string>unl</string>
 	<key>uuid</key>
 	<string>38347209-049C-477C-BDDD-602F708B482B</string>
 </dict>

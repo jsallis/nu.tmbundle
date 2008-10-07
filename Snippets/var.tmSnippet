@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>(${1:id}) ${0:name}</string>
 	<key>name</key>
-	<string>var</string>
+	<string>new ivar</string>
 	<key>scope</key>
 	<string>source.nu</string>
 	<key>tabTrigger</key>

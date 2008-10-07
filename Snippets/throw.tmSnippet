@@ -3,15 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(class ${1:name} is NuTestCase
-	$0)</string>
+	<string>(throw ((NSException alloc) initWithName:"${1:name}"
+                    reason:"${2:reason}"
+                    userInfo:${0:nil}))</string>
 	<key>name</key>
-	<string>NuTestCase subclass</string>
+	<string>throw</string>
 	<key>scope</key>
 	<string>source.nu</string>
 	<key>tabTrigger</key>
-	<string>tc</string>
+	<string>thr</string>
 	<key>uuid</key>
-	<string>9FB2EA54-3AF8-467F-93B2-6AE0BA7BF881</string>
+	<string>17300953-4B82-48E3-8F71-71C1CF65F987</string>
 </dict>
 </plist>
