@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>#!/usr/bin/env ruby
+
+selected_text = ENV["TM_SELECTED_TEXT"]
+
+if not selected_text.nil?
+	print "(try\n"
+	print selected_text
+	#STDIN.read.split('\n').each {|line| print "#{line}"}
+	print "\n\t(catch ($1)\n"
+	print "\t\t$0))"
+end</string>
+	<key>fallbackInput</key>
+	<string>none</string>
+	<key>input</key>
+	<string>none</string>
+	<key>keyEquivalent</key>
+	<string>^~@t</string>
+	<key>name</key>
+	<string>Surround with try/catch</string>
+	<key>output</key>
+	<string>insertAsSnippet</string>
+	<key>scope</key>
+	<string>source.nu</string>
+	<key>uuid</key>
+	<string>D1E8EEBD-939D-498B-8B68-966C734AA65B</string>
+</dict>
+</plist>
