@@ -4,9 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>(case  ${1:expression}
-	(${2:first} ($3))
-	(${4:second} ($5))
-	(else ($6)))$0</string>
+	(${2:first} $0))</string>
 	<key>name</key>
 	<string>case</string>
 	<key>scope</key>

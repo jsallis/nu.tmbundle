@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(ivar-accessors)$0</string>
+	<string>(ivar-accessors)</string>
 	<key>name</key>
 	<string>ivar-accessors</string>
 	<key>scope</key>

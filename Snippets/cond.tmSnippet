@@ -3,9 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(cond ((${1:first}) ($2))
-	((${3:second}) ($4))
-	(else ($5)))$0</string>
+	<string>(cond ((${1:first}) $0))</string>
 	<key>name</key>
 	<string>cond</string>
 	<key>scope</key>

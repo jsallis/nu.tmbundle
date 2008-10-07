@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(assert_equal ${1:first} ${2:second})$0</string>
+	<string>(assert_equal ${1:first} ${0:second})</string>
 	<key>name</key>
 	<string>assert_equal</string>
 	<key>scope</key>

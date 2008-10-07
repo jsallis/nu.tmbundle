@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(cmethod (${1:id}) ${2:name}${3::(${4:id})${5:${4/(NS([AEIOQUY])?(\w+).*)|(.)?.*/(?1:a(?2:n$2)$3: (?4:anArgument))/}}} is
+	<string>(cmethod (${1:id}) ${2:name}${3::(${4:id})${5:${4/(NS([AEIOQUY])?(\w+).*)|(.)?.*/(?1:a(?2:n$2)$3: (?4:anArgument))/}}}is
 	$0)</string>
 	<key>name</key>
 	<string>cmethod</string>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>;; @discussion $1</string>
+	<string>;; @discussion $0</string>
 	<key>name</key>
 	<string>@discussion</string>
 	<key>scope</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(assert_false $1)$0</string>
+	<string>(assert_false $0)</string>
 	<key>name</key>
 	<string>assert_false</string>
 	<key>scope</key>

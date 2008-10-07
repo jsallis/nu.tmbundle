@@ -3,15 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(synchronized ${1:object}
-	$0)</string>
+	<string>(else $0)</string>
 	<key>name</key>
-	<string>synchronized</string>
+	<string>else</string>
 	<key>scope</key>
 	<string>source.nu</string>
 	<key>tabTrigger</key>
-	<string>sync</string>
+	<string>else</string>
 	<key>uuid</key>
-	<string>AEEB7DAD-9DE9-4CCA-994B-DFB77061F17E</string>
+	<string>3792ECBA-AA86-4EE7-85A5-905C3F5617CD</string>
 </dict>
 </plist>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(NSException raise:"$1" format:"$2")</string>
+	<string>(NSException raise:"$1" format:"$0")</string>
 	<key>name</key>
 	<string>raise exception</string>
 	<key>scope</key>

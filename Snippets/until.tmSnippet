@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>(until (${1:condition})
-	$2)$0</string>
+	$0)</string>
 	<key>name</key>
 	<string>until</string>
 	<key>scope</key>

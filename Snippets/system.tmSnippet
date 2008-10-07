@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(system "$1")$0</string>
+	<string>(system "$0")</string>
 	<key>name</key>
 	<string>system</string>
 	<key>scope</key>

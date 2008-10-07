@@ -4,8 +4,8 @@
 <dict>
 	<key>content</key>
 	<string>(if ($1)
-    ($2)
-    (else ($3)))$0</string>
+    $2
+    (else $0))</string>
 	<key>name</key>
 	<string>if/else</string>
 	<key>scope</key>

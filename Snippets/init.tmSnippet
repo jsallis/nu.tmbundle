@@ -5,8 +5,8 @@
 	<key>content</key>
 	<string>(${1:imethod} (id) init is
 			(super init)
-			$2
-			(return self))$0</string>
+			$0
+			(return self))</string>
 	<key>name</key>
 	<string>init</string>
 	<key>scope</key>

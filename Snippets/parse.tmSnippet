@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(parse "($1)")$0</string>
+	<string>(parse "($0)")</string>
 	<key>name</key>
 	<string>parse</string>
 	<key>scope</key>

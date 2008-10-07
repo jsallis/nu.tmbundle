@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(global ${1:symbol} ${2:value})$0</string>
+	<string>(global ${1:symbol} ${0:value})</string>
 	<key>name</key>
 	<string>global</string>
 	<key>scope</key>

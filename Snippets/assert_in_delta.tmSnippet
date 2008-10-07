@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(assert_in_delta ${1:first} ${2:second} ${3:delta})$0</string>
+	<string>(assert_in_delta ${1:first} ${2:second} ${0:delta})</string>
 	<key>name</key>
 	<string>assert_in_delta</string>
 	<key>scope</key>

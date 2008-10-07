@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(assert_less_than ${1:first} ${2:second})$0</string>
+	<string>(assert_less_than ${1:first} ${0:second})</string>
 	<key>name</key>
 	<string>assert_less_than</string>
 	<key>scope</key>
