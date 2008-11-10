@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>(imethod (void) dealloc is
+	$0
+	(super dealloc))</string>
+	<key>name</key>
+	<string>dealloc</string>
+	<key>scope</key>
+	<string>source.nu</string>
+	<key>tabTrigger</key>
+	<string>dealloc</string>
+	<key>uuid</key>
+	<string>93609AA9-7C04-4F1F-BC9B-6C25AE6EDC42</string>
+</dict>
+</plist>
