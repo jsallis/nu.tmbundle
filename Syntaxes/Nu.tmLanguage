@@ -621,7 +621,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>\b(function|macro|macro-0)\s+((\w|\-|\!|\?)*)</string>
+			<string>\b(function|macro|macro-0|macro-1)\s+((\w|\-|\!|\?)*)</string>
 			<key>name</key>
 			<string>meta.function.nu</string>
 		</dict>
@@ -751,13 +751,13 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>[/*+-/&amp;|&gt;&lt;=!]</string>
+			<string>[/*+-/&amp;|&gt;&lt;=!`@]</string>
 			<key>name</key>
 			<string>keyword.operator.symbolic.nu</string>
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(append|atom|cons|car|cdr|context|eval|head|quote|parse|progn|send|tail|load|system|puts|help|version|beep|first|rest)\b</string>
+			<string>\b(append|atom|cons|car|cdr|context|eval|head|quote|parse|progn|send|tail|load|system|puts|help|version|beep|first|rest|macrox)\b</string>
 			<key>name</key>
 			<string>support.function.nu</string>
 		</dict>
