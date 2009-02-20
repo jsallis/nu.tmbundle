@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(macro ${1:name} ${2:(${3:args})}
+	<string>(macro-1 ${1:name} ${2:(${3:args})}
 	$0)</string>
 	<key>name</key>
-	<string>macro</string>
+	<string>macro-1</string>
 	<key>scope</key>
 	<string>source.nu</string>
 	<key>tabTrigger</key>
-	<string>macro</string>
+	<string>mac1</string>
 	<key>uuid</key>
-	<string>8A5D5E43-EC2B-4F97-A116-7379DB0F17F0</string>
+	<string>025463B4-BD1C-4ECA-AC21-06A74E509001</string>
 </dict>
 </plist>
