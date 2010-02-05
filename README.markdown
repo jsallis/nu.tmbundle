@@ -10,19 +10,10 @@ To install via Git:
     git clone git://github.com/jsallis/nu-tmbundle.git "Nu.tmbundle"
     osascript -e 'tell app "TextMate" to reload bundles'
 
-Requirements
-============
-
-Some commands in the bundle require the latest TextMate Support code available from the [official TextMate SVN Repository](http://macromates.com/svn/Bundles/trunk/).
-To update your current installation of TextMate to the latest Support code, run the following commands:
-
-    cd ~/Library/Application\ Support/TextMate/
-    svn co http://macromates.com/svn/Bundles/trunk/Support/
-
 Support
 =======
 
-Posting a message to the [programming-nu Google group](http://groups.google.com/group/programming-nu) is the easiest way to get support for the bundle.
+Opening an [issue](http://github.com/jsallis/nu-tmbundle/issues) is the easiest way to get support for the bundle.
 
 Source
 ======
