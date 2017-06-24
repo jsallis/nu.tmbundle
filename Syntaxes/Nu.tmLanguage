@@ -50,7 +50,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>(')(.|\\[nrfbaes]|\\[0-7]{3}|\\x\h{2}|\\u\h{4})(')</string>
+			<string>(')(.|\\[nrfbaes]|\\[0-7]{3}|\\x[0-9A-Fa-f]{2}|\\u[0-9A-Fa-f]{4})(')</string>
 			<key>name</key>
 			<string>constant.character.nu</string>
 		</dict>
@@ -779,7 +779,7 @@
 		<key>escaped_char</key>
 		<dict>
 			<key>match</key>
-			<string>\\([0-7]{3}|x\h{2}|u\h{4}|.)</string>
+			<string>\\([0-7]{3}|x[0-9A-Fa-f]{2}|u[0-9A-Fa-f]{4}|.)</string>
 			<key>name</key>
 			<string>constant.character.escape.nu</string>
 		</dict>
